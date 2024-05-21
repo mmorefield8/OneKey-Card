@@ -1,4 +1,4 @@
-# 如何注册并激活 OneKey Card - OneKey 帮助中心
+# 如何注册并激活 OneKey Card 
 
 ## 当前暂不支持中国大陆地区的用户进行 KYC 验证
 
